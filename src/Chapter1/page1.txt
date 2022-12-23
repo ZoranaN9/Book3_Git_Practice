@@ -2,4 +2,4 @@
 
    today we are practicing gitHub
 
-   I want to add new text in page 2
+   I want to add new text in page 1
